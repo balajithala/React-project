@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer (Android), Freelancer",
+        "imageSrc": "/brandimages/1-1.webp",
+        "location": "London, UK",
+        "timeAgo": "11 hours ago",
+        "salary": "$35k-$45k",
+        "badges": ["Part-time", "Private", "Urgent"]
+    },
+    {
+        "id": 2,
+        "title": "Software Engineer (Android), Freelancer",
+        "imageSrc": "/brandimages/1-2.webp",
+        "location": "London, UK",
+        "timeAgo": "11 hours ago",
+        "salary": "$35k-$45k",
+        "badges": ["Part-time", "Private", "Urgent"]
+    }
+]
